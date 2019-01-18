@@ -1,0 +1,96 @@
+= Dresden Commute Challenge - Verkehrswende bottoms-up
+:imagesdir: images
+:icons: font
+:date: 19. Januar 2019
+:my_name: Peter Steinbach
+:my_email: steinbach@scionics.de
+:my_twitter: psteinb_
+:my_github: psteinb
+:revealjs_slideNumber: true
+:revealjs_center: false
+:customcss: custom.css
+:stem:
+
+https://www.future-mobility-camp.de/dresden19/[Future Mobility Camp 2019] +
+
+mailto:{my_email}[{my_name}], {date}, Dresden, Germany
+
+== Bottom's Up?
+
+Viele Ansätze der Verkehrswende:
+
+image::busch-oberlehrer.jpg[]
+
+
+[NOTE.speaker]
+--
+- Wir müssen mehr X nutzen!
+- gesamt-gesellschaftliches Verlassen der Komfortzone
+--
+
+== Commute Challenge
+
+IMPORTANT: 20 Tage
+
+IMPORTANT: 20 mal pendeln
+
+image::bruce-dawson-2017.png[]
+
+[NOTE.speaker]
+--
+- engl. Pendeln = Commute
+- pendeln ohne Auto
+- Selbstversuch: Wie komme ich arbeit ohne das Auto zu benutzen?
+--
+
+== Mein Weg
+
+image::radweg.png[]
+
+== Pendeln: Harte Faktoren 
+
+* Infrastruktur modelliert Pendler (leider nicht umgekehrt)
+** Strassen für Autos, Busse, Trams
+** Fusswege für Fußgänger
+** Radwege (wenn vorhanden) nur für 2-Räder
+
+* Elberadweg erlaubt Verkehrsmittel abseits der Norm
+
+[NOTE.speaker]
+--
+- Infrastruktur für Rollerskates, Lastenräder, Roller, ... fehlt gänzlich
+--
+
+== Pendeln: Softe Faktoren 
+
+* Einfluss auf eigene Gesundheit, Psyche und Umfeld
+* Pendeln unterliegt gesellschaftlichen Zwängen (Existenz von Duschen und Schliessfächern am Arbeitsplatz, Zeitdruck)
+* Anreize entlang des Weges (Trimm-Dich-Pfad als Gegengewicht zum Bürojob)
+
+
+== https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/[Vorbild]
+
+image::bruce-dawson-2017.png[]
+
+Bruce Dawson, https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/[Commute Challenge 2017]
+
+
+== Aktuell
+
+* Mai 2019!
+* 15/20 Tage gesichert
+* Fluss scheint schwer als Pendelweg nutzbar
+* Unterstützung durch https://rehability.de[rehability.de]
+
+== Interesse oder Ideen?
+
+
+
+https://psteinb.github.io/DresdenCommute[psteinb.github.io/DresdenCommute]
+
+oder
+
+https://twitter.com/DresdenCommute[twitter.com/DresdenCommute]
+
+
+IMPORTANT: Danke für Ihre Aufmerksamkeit!
